@@ -7,14 +7,19 @@ This project aims to develop a fun yet functional Information Retrieval system t
 To get started, you'll need to install the following dependencies:
 
 Python (version >=3.7)
+
 PyPDF2: For extracting text from PDF files. 📝
 Command: pip install PyPDF2
+
 SpeechRecognition: For voice search functionality. 🎤
 Command: pip install SpeechRecognition
+
 nltk: For natural language processing tasks like fetching synonyms. 🌟
 Command: pip install nltk
+
 trie: A simple Trie data structure for auto-suggestions. 🔍
 Command: pip install trie
+
 # Components Used:
 PDF Document Indexing: To read and index text from PDF files using PyPDF2. 📄
 Trie Data Structure: For fast auto-suggestions based on user input. 🏃‍♂️
